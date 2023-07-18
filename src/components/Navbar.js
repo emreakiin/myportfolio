@@ -14,6 +14,8 @@ const Navbar = () => {
                 <Link href='/galery'class='m-3 text-gray-400 hover:text-red-900'>GALLERY</Link>
                 <Link href='/'class='m-3 text-gray-400 hover:text-red-900'>STORE</Link>
                 <Link href='/'class='m-3 text-gray-400 hover:text-red-900'>CONTACT</Link>
+                <Link href='/'class='m-3 text-gray-400 hover:text-red-900'>CONTACT</Link>
+                <Link href='/'class='m-3 text-gray-400 hover:text-red-900'>CONTACT</Link>
             </div>
         </div>
     )
